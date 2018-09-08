@@ -2,14 +2,15 @@
 This is a Python Web Scraper that scraps Movie Data from the famous IMDB website.
 
 It uses following Python Libraries
+
 1. BeautifulSoup 
 2. Requests
 
 The file imdbFinal.py is the only file you need.
 
-At this moment it fetches one Movies Data
+At this moment it fetches Movies Data.
 
-You have give Movie ID in ttxxxxxx format.
+You have give Movie ID in ttxxxx... format.
 
 You can get following data
 
@@ -25,4 +26,4 @@ You can get following data
 Also, at this point as it is just for fun, it does not store the data in any form, it just print the data on terminal.
 
 
-** Enjoy The Life Feel The Music **
+**Enjoy The Life Feel The Music**
